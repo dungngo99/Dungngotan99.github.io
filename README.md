@@ -15,7 +15,7 @@ A final project for my data science class at Tulane where I built a regression m
 
 ## 🛠 Technical stack
 
-- Python libraries: 
+- Python libraries:
   1. Data extraction and manipulation: numpy, pandas
   2. Data visualization: plotly, seaborn, ipywidgets, and matplotlib
   3. Data analysis: scipy and scikit-learn
@@ -25,6 +25,8 @@ A final project for my data science class at Tulane where I built a regression m
 Airbnb's first appearance in 2008 has a disruptive change in hospitality and accommodation around the world. This tutorial gives you basic information about Airbnb operations and its relationship with customers (hosts and travelers). All the source codes will be done in Python with emphasis on Data Visualization and Data Analysis.
 
 ## ⬇ Project Plan
+The following image represents the general workflow of my project
+![Alt Text](https://miro.medium.com/max/1400/1*eE8DP4biqtaIK3aIy1S2zA.png)
 
 The project will answer the follow questions with data analysis:
 1. Is there any correlation between price and number of reviews, rating scores, host response rate, or number of bedrooms of a house?
