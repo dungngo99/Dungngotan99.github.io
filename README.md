@@ -25,7 +25,7 @@ A final project for my data science class at Tulane where I built a regression m
 Airbnb's first appearance in 2008 has a disruptive change in hospitality and accommodation around the world. This tutorial gives you basic information about Airbnb operations and its relationship with customers (hosts and travelers). All the source codes will be done in Python with emphasis on Data Visualization and Data Analysis.
 
 ## ⬇ Project Plan
-The following image represents the general workflow of my project
+The following image (OSEMN framework) represents the general workflow of my data science project (Credited to Dr. Cher Han Lau for the figure)
 ![Alt Text](https://miro.medium.com/max/1400/1*eE8DP4biqtaIK3aIy1S2zA.png)
 
 The project will answer the follow questions with data analysis:
